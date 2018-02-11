@@ -1,0 +1,10 @@
+remote_theme: chesterhow/tale
+
+permalink:    /:year-:month-:day/:title
+paginate:     5
+title:        Ana Serban
+url:          http://www.anaserban.com/
+
+plugins:
+  - jekyll-paginate
+  - jekyll-remote-theme
